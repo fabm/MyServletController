@@ -1,0 +1,10 @@
+group 'pt.common.libs.servlet.controller'
+version '1.0-SNAPSHOT'
+
+allprojects{
+    repositories {
+        mavenCentral()
+        mavenLocal()
+    }
+}
+
